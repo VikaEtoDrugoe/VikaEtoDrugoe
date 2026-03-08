@@ -20,7 +20,8 @@ From Logistics to QA: A Portfolio of Thinking &amp; Testing
 
 | Раздел | Ссылка | Описание |
 |--------|--------|---------|
-| 🛠️ Учебный проект | [Перейти](https://github.com/VikaEtoDrugoe/qa-engineer-project-84) | Тестирование интернет-магазина: тест-кейсы, баг-репорты, регресс |
+| 🛠️ Учебный проект "Тестирование интернет-магазина" | [Перейти](https://github.com/VikaEtoDrugoe/qa-engineer-project-84) | Тестирование интернет-магазина: тест-кейсы, баг-репорты, регресс |
+| 🛠️ Учебный проект "Тестирование игровой платформы Codebattle" | [Перейти](https://github.com/VikaEtoDrugoe/qa-engineer-project-85) | Тестирование многопользовательской игры: механики, чат, рейтинги, работа с GitHub Issues, переоткрытие багов |
 | 📚 Заметки и статьи | [Перейти](https://github.com/VikaEtoDrugoe/thinking-like-a-tester/tree/main/articles-notes) | Конспекты по API, тест-дизайну, инструментам |
 | 👤 Обо мне | [Перейти](https://github.com/VikaEtoDrugoe/thinking-like-a-tester/tree/main/about-me) | Резюме и контакты |
 

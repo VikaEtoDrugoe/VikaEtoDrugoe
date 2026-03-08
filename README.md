@@ -1,7 +1,6 @@
-# thinking-like-a-tester
 From Logistics to QA: A Portfolio of Thinking &amp; Testing
 
-# 👋 Привет, я Виктория — начинающий QA-инженер
+# 👋 Привет, я Виктория — Junior QA-инженер
 
 Меняю логистику на IT. Мне нравится копаться в причинах сбоев, улучшать процессы и находить неочевидные связи.
 
